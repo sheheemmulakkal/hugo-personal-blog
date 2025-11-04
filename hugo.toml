@@ -8,7 +8,7 @@ theme  = 'hugo-ink'
 
 	# Optional 64x64 avatar image.
 	avatar = "/profile"
-	
+
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -16,9 +16,9 @@ theme  = 'hugo-ink'
 	featherIconsCDN = true
 
 	mode = "auto" # "dark" or "auto"
-	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-	customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-	customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+	#customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	#customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	#customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
 # Nav.
 [[menu.main]]

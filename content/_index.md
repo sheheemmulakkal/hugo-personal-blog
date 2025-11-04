@@ -1,6 +1,5 @@
 +++
 type='page'
-draft=true
 +++
 
 > This is a draft. At the initial stage of building personal website.

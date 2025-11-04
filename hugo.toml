@@ -1,13 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = "https://sheheemmulakkal.github.io/hugo-personal-blog/"
 languageCode = 'en-us'
 title = 'Muhammed Sheheem'
 theme  = 'hugo-ink'
 
 [params]
-	subtitle = "Personal blog website"
+	#subtitle = "Personal blog website"
 
 	# Optional 64x64 avatar image.
-	avatar = "/profile.png"
+	avatar = "/profile"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
@@ -15,9 +15,9 @@ theme  = 'hugo-ink'
 	featherIconsCDN = true
 
 	mode = "auto" # "dark" or "auto"
-	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
+	customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
 # Nav.
 [[menu.main]]
@@ -43,7 +43,7 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/sheheemmulakkal"
 
 [[params.social]]
 name = "RSS"

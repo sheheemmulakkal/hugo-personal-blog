@@ -1,6 +1,5 @@
 +++
 date = '2025-11-03T18:33:06+05:30'
-draft = true
 title = 'About'
 type = 'page'
 +++

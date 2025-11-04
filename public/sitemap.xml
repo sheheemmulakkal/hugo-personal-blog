@@ -8,7 +8,19 @@
     <loc>http://localhost:1313/hugo-personal-blog/posts/first-post/</loc>
     <lastmod>2025-11-04T14:01:29+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hugo-personal-blog/posts/secons-post/</loc>
+    <lastmod>2025-11-04T14:01:29+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-personal-blog/tags/fun/</loc>
+    <lastmod>2025-11-04T14:01:29+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-personal-blog/tags/learn/</loc>
+    <lastmod>2025-11-04T14:01:29+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugo-personal-blog/posts/</loc>
+    <lastmod>2025-11-04T14:01:29+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-personal-blog/tags/</loc>
     <lastmod>2025-11-04T14:01:29+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-personal-blog/blogs/</loc>
@@ -19,7 +31,5 @@
   </url><url>
     <loc>http://localhost:1313/hugo-personal-blog/about/</loc>
     <lastmod>2025-11-03T18:33:06+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-personal-blog/tags/</loc>
   </url>
 </urlset>

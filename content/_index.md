@@ -9,10 +9,12 @@ draft=true
 ## *Tinkerer / Developer / Film maker*
 
 
-<!-- ### Tinkerer turned self learned software developer.  -->
+### Tinkerer turned software developer and capture storeis.
 
-<!-- Building something will always keep you motivated and make you curious. Most ideas generates from this curiosity. And software is the cheapest way to tinker.  -->
-
-After dropping B.com - I was not interested learning this stuff from a college without any real experience or at least labs - I started learning Photoshop and designed posters for my brother and friends. Then I found that we don't need a computer science degree to build a website. I started learning HTML through youtube and build my own website using HTML, CSS and Javascript ( JS used to open and close modals ). When I found host this Static website in using our doing with a ``.com`` with just ₹600 I felt that I could do something. But a self learner who don't have any friends who build websites or software will face lots of challenges and probably drop it. If you think about now you may feel simple but an era you don't have access to any kind of AI tools even ChatGPT, that was really hard. How ever started learning Node.JS, MongoDB, Express kept me motivated, gave 
+I started my journey after dropping out of B.Com, realizing that real learning needs hands-on experience, not just theory. I began with Photoshop, designing posters for friends, and soon discovered I could build websites without a computer science degree. My first site — a simple static page with HTML, CSS, and a bit of JavaScript — gave me confidence when I hosted it under my own .com domain for just ₹600.
 
 {{< figure src="/hugo-personal-blog/pic2" title="Captured using Iphone 15 pro max" >}}
+
+Learning alone wasn’t easy back then, without AI tools or mentors, but diving into Node.js, Express, and MongoDB kept me going. Later, I joined Brocamp to deepen my knowledge in web development, databases, and microservices. Now, I’m working at Dignizant Technologies LLP as a MERN Stack Developer.
+
+Outside of coding, I love making videos and capturing moments — you can check out some of my work on Instagram.

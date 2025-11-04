@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammed Sheheem</title>
+    <link>http://localhost:1313/hugo-personal-blog/</link>
+    <description>Recent content on Muhammed Sheheem</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Nov 2025 14:01:29 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-personal-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/hugo-personal-blog/posts/first-post/</link>
+      <pubDate>Tue, 04 Nov 2025 14:01:29 +0530</pubDate>
+      <guid>http://localhost:1313/hugo-personal-blog/posts/first-post/</guid>
+      <description>&lt;p&gt;At some moment I got stucked at backend. No one was there to guide. Got help from some communities, but that even stopped. At a moment. I got a call from Brototype. I started learning HTML through youtube and build my own website using HTML, CSS and Javascript ( JS used to open and close modals ). When I found host this Static website in using our doing with a &lt;code&gt;.com&lt;/code&gt; with just ₹600 I felt that I could do something. But a self learner who don&amp;rsquo;t have any friends who build websites or software will face lots of challenges and probably drop it. If you think about now you may feel simple but an era you don&amp;rsquo;t have access to any kind of AI tools even ChatGPT, that was really hard. How ever started learning Node.JS, MongoDB, Express kept me motivated to build more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second Post</title>
+      <link>http://localhost:1313/hugo-personal-blog/posts/second-post/</link>
+      <pubDate>Tue, 04 Nov 2025 14:01:29 +0530</pubDate>
+      <guid>http://localhost:1313/hugo-personal-blog/posts/second-post/</guid>
+      <description>&lt;p&gt;At some moment I got stucked at backend. No one was there to guide. Got help from some communities, but that even stopped. At a moment. I got a call from Brototype. I started learning HTML through youtube and build my own website using HTML, CSS and Javascript ( JS used to open and close modals ). When I found host this Static website in using our doing with a &lt;code&gt;.com&lt;/code&gt; with just ₹600 I felt that I could do something. But a self learner who don&amp;rsquo;t have any friends who build websites or software will face lots of challenges and probably drop it. If you think about now you may feel simple but an era you don&amp;rsquo;t have access to any kind of AI tools even ChatGPT, that was really hard. How ever started learning Node.JS, MongoDB, Express kept me motivated to build more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Purpose</title>
+      <link>http://localhost:1313/hugo-personal-blog/blogs/purpose/</link>
+      <pubDate>Mon, 03 Nov 2025 19:02:23 +0530</pubDate>
+      <guid>http://localhost:1313/hugo-personal-blog/blogs/purpose/</guid>
+      <description>&lt;h1 id=&#34;everything-should-have-a-purpose&#34;&gt;Everything should have a purpose&lt;/h1&gt;&#xA;&lt;p&gt;What ever we do in our life should be done with purpose.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/hugo-personal-blog/about/</link>
+      <pubDate>Mon, 03 Nov 2025 18:33:06 +0530</pubDate>
+      <guid>http://localhost:1313/hugo-personal-blog/about/</guid>
+      <description>&lt;p&gt;This is some static page where you can write about yourself.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

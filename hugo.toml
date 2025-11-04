@@ -8,6 +8,7 @@ theme  = 'hugo-ink'
 
 	# Optional 64x64 avatar image.
 	avatar = "/profile"
+	
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]

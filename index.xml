@@ -13,7 +13,14 @@
       <link>http://localhost:1313/hugo-personal-blog/posts/first-post/</link>
       <pubDate>Tue, 04 Nov 2025 14:01:29 +0530</pubDate>
       <guid>http://localhost:1313/hugo-personal-blog/posts/first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;This post not meant to be serious. This is for testing purpose and will be removed soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/hugo-personal-blog/posts/secons-post/</link>
+      <pubDate>Tue, 04 Nov 2025 14:01:29 +0530</pubDate>
+      <guid>http://localhost:1313/hugo-personal-blog/posts/secons-post/</guid>
+      <description>&lt;p&gt;This is a temporay post to test how post, pages works. Also want to check tags&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purpose</title>

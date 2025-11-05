@@ -14,9 +14,10 @@ a {
     text-decoration: none;
     word-break: break-word;
 }
-    a:hover {
-        /* border-bottom: 2px solid #111111; */
-    }
+a:hover {
+    /* border-bottom: 2px solid #111111; */
+    color: #111111;
+}
 
 html,button,input,select,textarea {
     color: #333;
@@ -241,13 +242,13 @@ ul {
 .header .site-title {
     margin: 0;
 }
-    .site-title a {
-        color: #333;
-        text-decoration: none !important;
-    }
-    .site-title a:hover {
-        /* border-bottom-width: 3px; */
-    }
+.site-title a {
+    color: #333;
+    text-decoration: none !important;
+}
+.site-title a:hover {
+    /* border-bottom-width: 3px; */
+}
 
 .header .site-description {
     display: flex;

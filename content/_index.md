@@ -14,6 +14,6 @@ I started my journey after dropping out of B.Com, realizing that real learning n
 
 {{< figure src="/hugo-personal-blog/pic2" title="Captured using Iphone 15 pro max" >}}
 
-Learning alone wasn’t easy back then, without AI tools or mentors, but diving into Node.js, Express, and MongoDB kept me going. Later, I joined Brocamp to deepen my knowledge in web development, databases, and microservices. Now, I’m working at Dignizant Technologies LLP as a MERN Stack Developer.
+Learning alone wasn’t easy back then, without AI tools or mentors, but diving into Node.js, Express, and MongoDB kept me going. Later, I joined [Brototype](https://www.brototype.com/) to deepen my knowledge in web development, databases, and microservices. Now, I’m working at [Dignizant Technologies LLP](https://dignizant.com/) as a MERN Stack Developer.
 
 Outside of coding, I love making videos and capturing moments — you can check out some of my work on Instagram.

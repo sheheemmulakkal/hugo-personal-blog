@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: #111111;
+    color: #FE7E2B;
     text-decoration: none;
     word-break: break-word;
 }
@@ -23,13 +23,13 @@ html,button,input,select,textarea {
 }
 
 ::-moz-selection {
-    background: #111111;
+    background: #FE7E2B;
     text-shadow: none;
     color: #fff;
 }
 
 ::selection {
-    background: #111111;
+    background: #FE7E2B;
     text-shadow: none;
     color: #fff;
 }
@@ -109,7 +109,7 @@ blockquote {
     font-size: 1.4rem;
     font-family: Georgia,bitstream charter,serif;
     border-left: 3px solid;
-    border-color: #111111;
+    border-color: #FE7E2B;
     padding-left: 20px;
 }
 
@@ -365,10 +365,10 @@ ul {
 
 .post .tags a {
     display: inline-block;
-    border: 1px solid #111111;
+    border: 1px solid #FE7E2B;
     border-radius: 3px;
     padding: 0px 6px;
-    color: #111111;
+    color: #FE7E2B;
     line-height: 20px;
     font-size: 0.85em;
     text-decoration: none;
@@ -392,7 +392,7 @@ ul {
         color: #666;
     }
     .footer a:hover {
-        color: #111111;
+        color: #FE7E2B;
     }
 
 .tag-cloud {

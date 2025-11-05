@@ -12,7 +12,7 @@ type='page'
 
 I started my journey after dropping out of B.Com, realizing that real learning needs hands-on experience, not just theory. I began with Photoshop, designing posters for friends, and soon discovered I could build websites without a computer science degree. My first site — a simple static page with HTML, CSS, and a bit of JavaScript — gave me confidence when I hosted it under my own .com domain for just ₹600.
 
-{{< figure src="/hugo-personal-blog/pic2" title="Captured using Iphone 15 pro max" >}}
+{{< figure src="/pic2" title="Captured using Iphone 15 pro max" >}}
 
 Learning alone wasn’t easy back then, without AI tools or mentors, but diving into Node.js, Express, and MongoDB kept me going. Later, I joined [Brototype](https://www.brototype.com/) to deepen my knowledge in web development, databases, and microservices. Now, I’m working at [Dignizant Technologies LLP](https://dignizant.com/) as a MERN Stack Developer.
 

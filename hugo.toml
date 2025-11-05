@@ -27,19 +27,24 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
+name = "Blogs"
+url = "/blogs"
 weight = 2
+
+[[menu.main]]
+name = "Gallery"
+url = "/gallery"
+weight = 3
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 5
 
 [[params.social]]
 name = "Github"

@@ -6,35 +6,14 @@
     <description>Recent content on Muhammed Sheheem</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Nov 2025 14:01:29 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 19:02:23 +0530</lastBuildDate>
     <atom:link href="https://sheheemmulakkal.github.io/hugo-personal-blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First Post</title>
-      <link>https://sheheemmulakkal.github.io/hugo-personal-blog/posts/first-post/</link>
-      <pubDate>Tue, 04 Nov 2025 14:01:29 +0530</pubDate>
-      <guid>https://sheheemmulakkal.github.io/hugo-personal-blog/posts/first-post/</guid>
-      <description>&lt;p&gt;This post not meant to be serious. This is for testing purpose and will be removed soon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>https://sheheemmulakkal.github.io/hugo-personal-blog/posts/secons-post/</link>
-      <pubDate>Tue, 04 Nov 2025 14:01:29 +0530</pubDate>
-      <guid>https://sheheemmulakkal.github.io/hugo-personal-blog/posts/secons-post/</guid>
-      <description>&lt;p&gt;This is a temporay post to test how post, pages works. Also want to check tags&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Purpose</title>
       <link>https://sheheemmulakkal.github.io/hugo-personal-blog/blogs/purpose/</link>
       <pubDate>Mon, 03 Nov 2025 19:02:23 +0530</pubDate>
       <guid>https://sheheemmulakkal.github.io/hugo-personal-blog/blogs/purpose/</guid>
-      <description>&lt;h1 id=&#34;everything-should-have-a-purpose&#34;&gt;Everything should have a purpose&lt;/h1&gt;&#xA;&lt;p&gt;What ever we do in our life should be done with purpose.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://sheheemmulakkal.github.io/hugo-personal-blog/about/</link>
-      <pubDate>Mon, 03 Nov 2025 18:33:06 +0530</pubDate>
-      <guid>https://sheheemmulakkal.github.io/hugo-personal-blog/about/</guid>
-      <description>&lt;p&gt;This is some static page where you can write about yourself.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;everything-should-have-a-purpose&#34;&gt;Everything should have a purpose&lt;/h1&gt;&#xA;&lt;p&gt;The content for this initial post is on paper. Still working on it. The post created to test how the website looks like.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

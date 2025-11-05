@@ -5,4 +5,4 @@ title = 'Purpose'
 
 # Everything should have a purpose
 
-What ever we do in our life should be done with purpose.
+The content for this initial post is on paper. Still working on it. The post created to test how the website looks like.    

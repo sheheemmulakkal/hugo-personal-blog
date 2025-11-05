@@ -7,7 +7,7 @@ theme  = 'hugo-ink'
 	#subtitle = "Personal blog website"
 
 	# Optional 64x64 avatar image.
-	avatar = "/hugo-personal-blog/profile"
+	avatar = "/profile"
 
 
 	# Content types to disable Disqus on.

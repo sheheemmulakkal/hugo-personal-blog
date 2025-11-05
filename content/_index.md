@@ -1,6 +1,5 @@
 +++
 type='page'
-title='Muhammed Sheheem — Developer, Tinkerer, Film maker.'
 description='I am a tinkerer turned software engineer, likes expirimenting with softwares and making vidoes.'
 keywords=['software engineer', 'developer', 'film maker', 'photographer', 'tech blog', 'personal site']
 images=['/profile']

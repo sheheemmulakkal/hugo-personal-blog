@@ -1,4 +1,4 @@
-baseURL = "https://sheheemmulakkal.github.io/hugo-personal-blog/"
+baseURL = "https://hugo-personal-blog-wi23.vercel.app/"
 languageCode = 'en-us'
 title = 'Muhammed Sheheem'
 theme  = 'hugo-ink'

@@ -32,7 +32,8 @@ html.dark h6 {
   color: #ddd;
 }
 
-html.dark a,a:hover {
+html.dark a,
+html.dark a:hover {
   color: #FE7E2B;
   text-decoration: none;
 }

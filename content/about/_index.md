@@ -5,10 +5,7 @@ type = 'page'
 
 This website is to share who I am to the people who want to know me. I share my thoughts, ideas and some of the photos and videos. I took a decision that all the content in this website must be my own creation. That doesn't mean the photos and videos I take won't edit or color grade or I won't attach any others thoughts or ideas. I meant that I won't use AI to generate the content. I know that using AI will give me more time and productivity, but at what cost?
 
-I let the Japanese concept  ***Wabi-sabi***[^1] work here. The improvement should be articulated with my will, concentration and focus. Ofource, I am not an anit-AI. I use AI as my research assistant and for another repeating actions and for the tasks where not needed an human made decision. 
+I let the Japanese concept  ***Wabi-sabi***[^1] work here. This is not me challenging AI. This me challenging with my older self to improve and to be real to myself. 
 
-> There is a distinct difference between a picture that drawn from your idea and someone else's idea.
-
-This is not about the tools. It's about the idea and the decision.
 
 [^1]: [**Wabi-sabi**](https://en.wikipedia.org/wiki/Wabi-sabi) is a Japanese philosophy that finds beauty in imperfection, impermanence, and simplicity

@@ -7,13 +7,18 @@ type='page'
 
 ## *Tinkerer / Developer / Film maker*
 
+I am a software developer and love making videos.
 
-### Tinkerer turned software developer and capture storeis.
+Curiosity on how things works and expirimenting with things made me a software developer. I think tinkering with softwares are the cheapest one than building things with materials.
 
-I started my journey after dropping out of B.Com, realizing that real learning needs hands-on experience, not just theory. I began with Photoshop, designing posters for friends, and soon discovered I could build websites without a computer science degree. My first site — a simple static page with HTML, CSS, and a bit of JavaScript — gave me confidence when I hosted it under my own .com domain for just ₹600.
+{{< figure src="/pic2">}}
 
-{{< figure src="/pic2" title="Captured using Iphone 15 pro max" >}}
+After dropping B.com — I was not interested learning stuff without any real experience or at least labs for expirimenting. That never motivated me. — I started learning Photoshop and designed posters for friends. Finding out you don't need a CS degree to build a software was a game changing moment.Started with learning HTML through youtube and built my own website using HTML, CSS and Javascript ( JS used to open and close modals ). Hosting a static website with a standard .com domain gave me extra boost. 
 
-Learning alone wasn’t easy back then, without AI tools or mentors, but diving into Node.js, Express, and MongoDB kept me going. Later, I joined [Brototype](https://www.brototype.com/) to deepen my knowledge in web development, databases, and microservices. Now, I’m working at [Dignizant Technologies LLP](https://dignizant.com/) as a MERN Stack Developer.
+Learning a technology without having any basics, mentor or friends was kind of challenging. Joining [Brototype](https://www.brototype.com/) gave me good exposure and surrounded with like minded people who wants innovage, grow, explore.
 
-Outside of coding, I love making videos and capturing moments — you can check out some of my work on Instagram.
+Currently working as Web developer at [Dignizant Technologies LLP](https://dignizant.com/) since 2024.
+
+Film making and photography brings little of my art side. Not a professional, but capturing moments and giving some kind of visual treats for others hits different.
+
+I'll try to share my thoughts or learning through this website. 

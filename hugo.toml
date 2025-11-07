@@ -5,6 +5,7 @@ theme  = 'hugo-ink'
 
 [params]
 	#subtitle = "Personal blog website"
+	favicon = "/favicon.png"
 
 	# Optional 64x64 avatar image.
 	avatar = "/profile"

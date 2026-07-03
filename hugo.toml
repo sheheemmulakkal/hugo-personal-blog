@@ -7,6 +7,9 @@ theme  = 'hugo-ink'
 	#subtitle = "Personal blog website"
 	favicon = "/favicon.png"
 
+	# Sections whose posts appear on the homepage.
+	mainSections = ["blogs"]
+
 	# Optional 64x64 avatar image.
 	avatar = "/profile"
 
@@ -33,14 +36,19 @@ url = "/blogs"
 weight = 2
 
 [[menu.main]]
+name = "Projects"
+url = "/projects"
+weight = 3
+
+[[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 4
+weight = 5
 
 [[params.social]]
 name = "Github"
@@ -54,3 +62,6 @@ url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
+
+[markup.goldmark.renderer]
+   unsafe = true # Allow inline HTML in markdown (e.g. <small>).

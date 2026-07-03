@@ -22,7 +22,7 @@ Learning a technology without having any basics, mentor or friends was kind of c
 
 Currently working as Web developer at [Dignizant Technologies LLP](https://dignizant.com/) since 2024. Having engaged in building backend technologies.
 
-Film making and photography brings little of my art side. Not a professional, but capturing moments and giving some kind of visual treats for others hits different.
+Film making and photography brings little of my art side. Not a professional, but capturing moments and giving some kind of visual treats for others hits different. You can find my [instagram](https://www.instagram.com/msheheeem) account here. It is not a space where you see the real me, just a ***digital story book***. Those are only some moments I chose to show to the world. Real life has many more beyond them — some better, some worse.
 
 I'll try to share my thoughts or learning through this website. Reach me at [sheheem99@gmail.com
 ](mailto:sheheem99@gmail.com)

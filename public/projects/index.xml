@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Muhammed Sheheem</title>
-		<link>https://sheheem.in/</link>
-		<description>Recent content on Muhammed Sheheem</description>
+		<title>Projects on Muhammed Sheheem</title>
+		<link>https://sheheem.in/projects/</link>
+		<description>Recent content in Projects on Muhammed Sheheem</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Tue, 03 Mar 2026 10:18:06 +0530</lastBuildDate>
 		
-			<atom:link href="https://sheheem.in/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://sheheem.in/projects/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Brevyx</title>
 				<link>https://sheheem.in/projects/brevyx/</link>
@@ -26,13 +26,6 @@
 				<pubDate>Tue, 24 Feb 2026 18:50:41 +0530</pubDate>
 				<guid>https://sheheem.in/projects/clipboard-manager/</guid>
 				<description>&lt;p&gt;&lt;small&gt;&lt;em&gt;⚠️ AI-generated write-up, to be revised later. Project built with AI (Claude) — I don&amp;rsquo;t know Rust. A personal experimental tool, not a serious project.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;&#xA;&lt;p&gt;One thing I missed after moving from Windows to Ubuntu was &lt;strong&gt;Win+V&lt;/strong&gt; — the built-in clipboard history popup. Ubuntu has nothing like it out of the box, so I built one.&lt;/p&gt;&#xA;&lt;p&gt;Press &lt;strong&gt;Ctrl+Alt+C&lt;/strong&gt; anywhere and a popup shows everything you&amp;rsquo;ve recently copied — click an item and it&amp;rsquo;s pasted instantly. It handles both &lt;strong&gt;text and screenshots&lt;/strong&gt;.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Purpose</title>
-				<link>https://sheheem.in/blogs/purpose/</link>
-				<pubDate>Mon, 03 Nov 2025 19:02:23 +0530</pubDate>
-				<guid>https://sheheem.in/blogs/purpose/</guid>
-				<description>&lt;h1 id=&#34;everything-should-have-a-purpose&#34;&gt;Everything should have a purpose&lt;/h1&gt;&#xA;&lt;p&gt;The content for this initial post is on paper. Still working on it. The post created to test how the website looks like.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

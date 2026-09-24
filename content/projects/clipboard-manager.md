@@ -9,6 +9,8 @@ I haven't felt like going back to Windows since I switched to Ubuntu. But it was
 
 As a Software Engineer I always want to build something to use daily. I decided to build this one myself. By the help of Claude I started building this one. A simple, lightweight clipboard manager for Ubuntu. Which helps to copy, paste, organize, retrieve by search etc.
 
+<img src="/clipboard-manager.png" alt="Clipboard Manager popup showing pinned and recent clipboard items" style="display: block; width: 100%; max-width: 340px; height: auto; margin: 1.5em auto;">
+
 I am using it for months, it feels very useful for me. I think it may help you if you don't have good one.
 
 You could download it, use it, modify it, if it keeps annoying you can improve it or [report it to me in mail](mailto:sheheem99@gmail.com) or simply [raise an issue in github](https://github.com/sheheemmulakkal/clipboard-manager/issues).

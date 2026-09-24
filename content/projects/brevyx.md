@@ -13,6 +13,7 @@ I tried out a few reminder systems, but their notification methods were disappoi
 
 I tried to build one using Rust which reminds you at specific intervals, to take rest, hydrate, adjust your posture.
 
+<video src="/brevyx-demo.webm" autoplay loop muted playsinline style="display: block; width: 100%; max-width: 600px; height: auto; margin: 1.5em auto;"></video>
 
 if you don't have one, give it a try. [Here is the link](https://github.com/sheheemmulakkal/brevyx).
 

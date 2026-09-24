@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ubuntu on Muhammed Sheheem</title>
+		<link>https://sheheem.in/tags/ubuntu/</link>
+		<description>Recent content in Ubuntu on Muhammed Sheheem</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 24 Feb 2026 18:50:41 +0530</lastBuildDate>
+		
+			<atom:link href="https://sheheem.in/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Clipboard Manager</title>
+				<link>https://sheheem.in/projects/clipboard-manager/</link>
+				<pubDate>Tue, 24 Feb 2026 18:50:41 +0530</pubDate>
+				<guid>https://sheheem.in/projects/clipboard-manager/</guid>
+				<description>&lt;p&gt;I haven&amp;rsquo;t felt like going back to Windows since I switched to Ubuntu. But it was really annoying that there were no built-in clipboard history or a clipboard manager functionality in Ubuntu. That was one of the tools I used daily.&lt;/p&gt;&#xA;&lt;p&gt;As a Software Engineer I always want to build something to use daily. I decided to build this one myself. By the help of Claude I started building this one. A simple, lightweight clipboard manager for Ubuntu. Which helps to copy, paste, organize, retrieve by search etc.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

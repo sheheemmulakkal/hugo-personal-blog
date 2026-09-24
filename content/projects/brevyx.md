@@ -1,21 +1,21 @@
 +++
 date = '2026-03-03T10:18:06+05:30'
 title = 'Brevyx'
-description = 'A Linux wellness daemon — full-screen GTK4 reminders for eye rest, hydration, movement and breaks.'
+description = 'A Linux wellness daemon.'
+tags = ['rust', 'gtk4', 'linux', 'productivity', 'wellness']
 +++
 
-<small><em>⚠️ AI-generated write-up, to be revised later. Project built with AI (Claude) — I don't know Rust. A personal experimental tool, not a serious project.</em></small>
+In my view, it is normal for developers and engineers to slouch while working. Staring at the screen for a long time is going to strain your eyes. Sitting hours in front of a screen is quite normal among enthusiasts and hobbyist engineers, but isn't healthy, is it?
 
-I spend long hours at the screen and wanted something that would *force* me to look away — like [LookAway](https://www.lookaway.app/) on macOS, but for Linux. Nothing quite like it existed, so I built **Brevyx**.
+We constantly worry about our apps being okay. But it is just as necessary to look after ourselves.
 
-It runs silently as a systemd user service and shows **full-screen animated overlay reminders** at configurable intervals:
+I tried out a few reminder systems, but their notification methods were disappointing.
 
-- **20-20-20 rule** — an eye-rest overlay every 20 minutes, with an animated blinking/breathing eye
-- **Hydration, movement and break** reminders, each on its own independent schedule
-- **Skip button** with a configurable delay before it appears — or disable it entirely for no-skip mode
-- **System tray icon** to pause, resume or quit
-- **Hot-reload config** — edit `~/.config/brevyx/config.toml` and changes apply within seconds, no restart
+I tried to build one using Rust which reminds you at specific intervals, to take rest, hydrate, adjust your posture.
 
-Built with Rust and GTK4, installable with a one-line script or a `.deb` — no Rust toolchain needed.
+
+if you don't have one, give it a try. [Here is the link](https://github.com/sheheemmulakkal/brevyx).
+
+***You've been here for a while. Give your eyes a break, drink some water, stretch, come back fresh...***
 
 **Source:** [github.com/sheheemmulakkal/brevyx](https://github.com/sheheemmulakkal/brevyx)

@@ -1,24 +1,16 @@
 +++
 date = '2026-02-24T18:50:41+05:30'
 title = 'Clipboard Manager'
-description = 'A Win+V style clipboard history popup for Ubuntu. Text and screenshots, built with Rust and GTK4.'
+description = 'A Win + V style clipboard history tool for Ubuntu.'
+tags = ['rust', 'gtk4', 'linux', 'ubuntu', 'productivity']
 +++
 
-<small><em>⚠️ AI-generated write-up, to be revised later. Project built with AI (Claude) — I don't know Rust. A personal experimental tool, not a serious project.</em></small>
+I haven't felt like going back to Windows since I switched to Ubuntu. But it was really annoying that there were no built-in clipboard history or a clipboard manager functionality in Ubuntu. That was one of the tools I used daily.
 
-One thing I missed after moving from Windows to Ubuntu was **Win+V** — the built-in clipboard history popup. Ubuntu has nothing like it out of the box, so I built one.
+As a Software Engineer I always want to build something to use daily. I decided to build this one myself. By the help of Claude I started building this one. A simple, lightweight clipboard manager for Ubuntu. Which helps to copy, paste, organize, retrieve by search etc.
 
-Press **Ctrl+Alt+C** anywhere and a popup shows everything you've recently copied — click an item and it's pasted instantly. It handles both **text and screenshots**.
+I am using it for months, it feels very useful for me. I think it may help you if you don't have good one.
 
-Some things it does:
-
-- **Paste on click**, with a separate button for pasting into terminals (Ctrl+Shift+V)
-- **Pin items** so they're never evicted from history
-- **Label and color-code** items (right-click a row) so important ones stand out
-- **Search** through history from the popup
-- **Image support** — copied screenshots show as thumbnails, deduplicated by hash, stored on disk and never loaded into RAM until pasted
-- Works on both **X11 and Wayland** (via the RemoteDesktop and GlobalShortcuts portals)
-
-Built with Rust and GTK4. Installable with a one-line script or a `.deb` from releases — no Rust toolchain needed.
+You could download it, use it, modify it, if it keeps annoying you can improve it or [report it to me in mail](mailto:sheheem99@gmail.com) or simply [raise an issue in github](https://github.com/sheheemmulakkal/clipboard-manager/issues).
 
 **Source:** [github.com/sheheemmulakkal/clipboard-manager](https://github.com/sheheemmulakkal/clipboard-manager)

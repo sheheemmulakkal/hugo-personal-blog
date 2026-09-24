@@ -1,0 +1,26 @@
+/* Post tags: one wrapping row instead of one tag per line. */
+.post .tags ul.flat {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-top: 2em;
+}
+
+.post .tags ul.flat li {
+    margin: 0;
+}
+
+.post .tags a {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.post .tags a::before {
+    content: "#";
+    opacity: 0.6;
+}
+
+.post .tags a:hover {
+    text-decoration: underline;
+}

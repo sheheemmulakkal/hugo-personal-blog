@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Projects on Muhammed Sheheem</title>
-		<link>https://sheheem.in/projects/</link>
-		<description>Recent content in Projects on Muhammed Sheheem</description>
+		<title>Linux on Muhammed Sheheem</title>
+		<link>https://sheheem.in/tags/linux/</link>
+		<description>Recent content in Linux on Muhammed Sheheem</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Tue, 03 Mar 2026 10:18:06 +0530</lastBuildDate>
 		
-			<atom:link href="https://sheheem.in/projects/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://sheheem.in/tags/linux/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Brevyx</title>
 				<link>https://sheheem.in/projects/brevyx/</link>

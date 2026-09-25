@@ -7,6 +7,9 @@ theme  = 'hugo-ink'
 	#subtitle = "Personal blog website"
 	favicon = "/favicon.png"
 
+	# Fallback link-preview image for pages without their own `images`.
+	images = ["/profile-og.jpg"]
+
 	# Sections whose posts appear on the homepage.
 	mainSections = ["blogs"]
 

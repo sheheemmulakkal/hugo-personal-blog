@@ -1,7 +1,10 @@
 +++
 date = '2026-03-03T10:18:06+05:30'
 title = 'Brevyx'
-description = 'A Linux wellness daemon.'
+seoTitle = 'Brevyx – Break, Eye-Rest & Posture Reminder App for Linux'
+description = 'Brevyx is a free, open-source break reminder for Linux and Ubuntu. Animated reminders to rest your eyes (20-20-20 rule), drink water, stretch and fix your posture.'
+keywords = ['brevyx', 'break reminder linux', 'eye strain reminder', '20-20-20 rule app', 'ubuntu break timer', 'hydration reminder', 'posture reminder', 'lookaway alternative linux', 'stretchly alternative', 'workrave alternative', 'rust gtk4']
+images = ['/brevyx-og.png']
 tags = ['rust', 'gtk4', 'linux', 'productivity', 'wellness']
 +++
 

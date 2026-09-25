@@ -1,7 +1,10 @@
 +++
 date = '2026-02-24T18:50:41+05:30'
 title = 'Clipboard Manager'
-description = 'A Win + V style clipboard history tool for Ubuntu.'
+seoTitle = 'Clipboard Manager – Win + V Style Clipboard History for Ubuntu'
+description = 'A free, open-source clipboard manager for Ubuntu and Linux. Win + V style clipboard history with search, pins, tags and image support. Works on X11 and Wayland (GNOME).'
+keywords = ['clipboard manager ubuntu', 'clipboard history linux', 'win+v for ubuntu', 'windows clipboard history linux', 'gnome clipboard manager', 'wayland clipboard manager', 'copyq alternative', 'gpaste alternative', 'rust gtk4']
+images = ['/clipboard-manager-og.png']
 tags = ['rust', 'gtk4', 'linux', 'ubuntu', 'productivity']
 +++
 
